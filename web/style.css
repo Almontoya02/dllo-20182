@@ -1,0 +1,22 @@
+
+body{
+    background-color:rgb(183, 224, 163); 
+
+}
+#list1 {
+  display: none;
+
+
+}
+
+#list2 {
+    font-style: inherit;
+    background-color: brown;
+}
+/*
+#-> id
+.-> class
+*/
+#Contenedor1{
+    color:red;
+}
